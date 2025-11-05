@@ -1,0 +1,9 @@
+# install4j response file for Trader Workstation latest (10.29.1f) 20240508 16:03:30
+cmdLineArgs$StringArray="D\:\\\\Tradees\\\\tws","ndc1.ibllc.com\:4000"
+exeName=tws
+executeLauncherAction$Boolean=true
+installerType=updatable
+jtsConfigDir=D\:\\Tradees\\tws
+sys.adminRights$Boolean=false
+sys.installationDir=D\:\\Tradees\\tws
+sys.languageId=en

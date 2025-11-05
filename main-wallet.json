@@ -1,0 +1,12 @@
+{
+  "generated": "2025-09-18T09:40:43.353Z",
+  "count": 1,
+  "wallets": [
+    {
+      "id": 1,
+      "publicKey": "EEeC6Tzky2psp8TZJYLgZs78ucbjEk7dkjeSSYbUCBR9",
+      "secretKey": "4JgSmJZrQw8jYMwG5amtrmHVWAuAwmcU5FfwRNiyDBu1JJxHzsWsbSUg9czbw3G51iHmYLBCRZQ4rAP6NZfrdWk7",
+      "address": "EEeC6Tzky2psp8TZJYLgZs78ucbjEk7dkjeSSYbUCBR9"
+    }
+  ]
+}

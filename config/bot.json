@@ -1,0 +1,10 @@
+{
+  "walletsFile": "wallets.json",
+  "cycleCount": 50,
+  "minCycleSizeSOL": 0.010,
+  "maxCycleSizeSOL": 0.020,
+  "minIntervalSec": 20,
+  "maxIntervalSec": 60,
+  "priceBumpMinPct": 0.10,
+  "priceBumpMaxPct": 0.50
+}

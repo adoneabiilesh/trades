@@ -1,0 +1,54 @@
+{
+  "generated": "2025-09-18T09:40:43.390Z",
+  "count": 8,
+  "wallets": [
+    {
+      "id": 1,
+      "publicKey": "EEeC6Tzky2psp8TZJYLgZs78ucbjEk7dkjeSSYbUCBR9",
+      "secretKey": "4JgSmJZrQw8jYMwG5amtrmHVWAuAwmcU5FfwRNiyDBu1JJxHzsWsbSUg9czbw3G51iHmYLBCRZQ4rAP6NZfrdWk7",
+      "address": "EEeC6Tzky2psp8TZJYLgZs78ucbjEk7dkjeSSYbUCBR9"
+    },
+    {
+      "id": 2,
+      "publicKey": "8MdmEgQuixgXg6sQ3ZcqAVM8N6TCn1FYVnrUtbNgQjDW",
+      "secretKey": "4UyAWbH9C9aoZuriXpdLmuNZsLybJ2RNXn5CBvXuRH65vShYVsNr7eRqhkWbn8SyBp83hVxhH1ZwgDzy9xgsuSTW",
+      "address": "8MdmEgQuixgXg6sQ3ZcqAVM8N6TCn1FYVnrUtbNgQjDW"
+    },
+    {
+      "id": 3,
+      "publicKey": "BkbFS9LusJu3PGGB5WQQt5h1ck8fY7WRWoBjT6Qh8xhP",
+      "secretKey": "3WwZ3Whnoy85GvnjXdfvgunAnkaCQe92DrPyPCYrPAHjSVNxpQDxiPZxgoumXciGnmpAa8TkNKWpQ5xQqM1dVy3f",
+      "address": "BkbFS9LusJu3PGGB5WQQt5h1ck8fY7WRWoBjT6Qh8xhP"
+    },
+    {
+      "id": 4,
+      "publicKey": "6XQGM4jiUEqPSoBhLyhYfUrNN9vKtDVjUHzoFA1sDoK2",
+      "secretKey": "2yy3GFGTJ6Kf4cQtsjvpAZMC197YroMRyoyWk4sJEYrqgXzbti5iVwTdLYGNFwq9SHJXLJtwrKjEFVgyHbBcCWmS",
+      "address": "6XQGM4jiUEqPSoBhLyhYfUrNN9vKtDVjUHzoFA1sDoK2"
+    },
+    {
+      "id": 5,
+      "publicKey": "7HfSCcpmL65j3vbh2EbVsK9GZj4JmDKTmqYZqnHo9JNr",
+      "secretKey": "2jSfsdrKHyUHnNKeNRpxfFUmnSDSgXTX7p3QemPSSt7npsarVmWMSr2Hc2jJ44pQbyD9T2vBiVxEnYLtKLbfG5o4",
+      "address": "7HfSCcpmL65j3vbh2EbVsK9GZj4JmDKTmqYZqnHo9JNr"
+    },
+    {
+      "id": 6,
+      "publicKey": "BL4Yr5NMYoHjFkBdcBYekRQVaDQv3CVkST8Ua7fLfutD",
+      "secretKey": "2K39hL9kU9o3j4RtWgB4ANLRm84Xe9khvUpgPJ3bczjH5BpZ18br6L62B5LoXpPS9Fz5ZXP5RUBm3bX1EaM6SYTK",
+      "address": "BL4Yr5NMYoHjFkBdcBYekRQVaDQv3CVkST8Ua7fLfutD"
+    },
+    {
+      "id": 7,
+      "publicKey": "yRaZzyAe2EvRcEsUgwxZpAS8QbWFBqush5u3xXoA5WQ",
+      "secretKey": "5NbcJZEhbhfwvRuqMG74UzHsYHQhhCNxUXWED39ZSp2T89vFq5Y2AHQVc83VYvj5qWZuYsBkYj5KAbNC4zjddQ9N",
+      "address": "yRaZzyAe2EvRcEsUgwxZpAS8QbWFBqush5u3xXoA5WQ"
+    },
+    {
+      "id": 8,
+      "publicKey": "buhTgoeUyK7De8pB6zkP1S9QKjhGY361LTL99ZUhDK8",
+      "secretKey": "5ZdMv6xXvAzWSkqQ7JNwuEbL44EXmirn3A2uHGwfDYwM4YtKAFo8mx7G44gT5WZK65DJoVGqVAm29xTS9T4fyxiv",
+      "address": "buhTgoeUyK7De8pB6zkP1S9QKjhGY361LTL99ZUhDK8"
+    }
+  ]
+}

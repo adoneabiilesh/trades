@@ -1,0 +1,34 @@
+[
+  {
+    "name": "wallet1",
+    "secretKey": "4eNJ9TD3YAmG2ck4f8wVeaEPr1XCSv4ocbTYnKFdGdiTTcjiwTC8LFFjQKWZJbeK7nRjfTHo5N7jhgGUtKuwXYTr"
+  },
+  {
+    "name": "wallet2", 
+    "secretKey": "35883bCBXGdDNFLAoHpdhvqVvmbVgF8bJ9xQ46vSLSpuEtyDs2f9VVxvvAvwG4rQHYM3mmgwn9H6dcauzoqQoYUj"
+  },
+  {
+    "name": "wallet3",
+    "secretKey": "59rwM529m7VqiZxBDDkmpGi3G2DKa9J5mcVg5KTbY5N4TxBLWztPaRXXH6oyak5eQ8mrpffsbmsN7mwgPM6finMy"
+  },
+  {
+    "name": "wallet4",
+    "secretKey": "5iRbkzND1L7uon12CLW8CACQbJNxieT4s3mYMCxk51vWxdPxM3uM42pvw6QvVMPAzmyCBVQhidYWrJZ2xQp6gKr8"
+  },
+  {
+    "name": "wallet5",
+    "secretKey": "4Bnw6ymCragvpEupw9Z87H4LsBmFWDZDnwzaX55uJDxRGY8TCDgvqXbzUFH94dANsFeewZi6TjqCaYbpSXDeVCCX"
+  },
+  {
+    "name": "wallet6",
+    "secretKey": "2FSi8mpzvaEBPtM5WyVRNz5WFqS4HmJ8tGwbxd1DniNvYDjU8LR7MsqQV5gMT9zGLQfeq7axuLvZ4CHw41ChZd5J"
+  },
+  {
+    "name": "wallet7",
+    "secretKey": "jvhVvRYNhF84Ju6XjGbVHrfN92vFXPkQttQw7PXNLLngp9uyG7iC1x2RDJoYCXRNvHbhMxfsaj7b5oaT7mMHkmZ"
+  },
+  {
+    "name": "wallet8",
+    "secretKey": "32hK61gB4kDEtP3BRQrcY2pLVUCeXyv4FyagHJ8qeGG8oXe61kutL3X2CyNguQeBeiAt5MoZs1uFheKfouKYPufK"
+  }
+]
